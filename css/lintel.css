@@ -1,0 +1,26 @@
+/* @license
+ * MyFonts Webfont Build ID 1491972, 2011-11-10T14:21:07-0500
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: Lintel by The Northern Block
+ * URL: http://www.myfonts.com/fonts/northernblock/lintel/regular/
+ * 
+ * Webfont: Lintel Italic by The Northern Block
+ * URL: http://www.myfonts.com/fonts/northernblock/lintel/ital/
+ * 
+ * 
+ * License: http://www.myfonts.com/viewlicense?type=web&buildid=1491972
+ * Licensed pageviews: unlimited
+ * Webfonts copyright: Copyright (c) 2010 by Jonathan Hill. All rights reserved.
+ * 
+ * © 2011 Bitstream Inc
+*/
+
+
+ @font-face {font-family: 'Lintel';src: url('webfonts/16C404_0.eot');src: url('webfonts/16C404_0.eot?#iefix') format('embedded-opentype'),url('webfonts/16C404_0.woff') format('woff'),url('webfonts/16C404_0.ttf') format('truetype'),url('webfonts/16C404_0.svg#wf') format('svg');}
+ @font-face {font-family: 'Lintel-Italic';src: url('webfonts/16C404_1.eot');src: url('webfonts/16C404_1.eot?#iefix') format('embedded-opentype'),url('webfonts/16C404_1.woff') format('woff'),url('webfonts/16C404_1.ttf') format('truetype'),url('webfonts/16C404_1.svg#wf') format('svg');}

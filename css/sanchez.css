@@ -1,0 +1,26 @@
+/* @license
+ * MyFonts Webfont Build ID 1491873, 2011-11-10T14:05:45-0500
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: Sanchez by Latinotype
+ * URL: http://www.myfonts.com/fonts/latinotype/sanchez/regular/
+ * 
+ * Webfont: Sanchez Italic by Latinotype
+ * URL: http://www.myfonts.com/fonts/latinotype/sanchez/ital/
+ * 
+ * 
+ * License: http://www.myfonts.com/viewlicense?type=web&buildid=1491873
+ * Licensed pageviews: unlimited
+ * Webfonts copyright: Copyright (c) 2011 by Daniel hern&#x0087;ndez. All rights reserved.
+ * 
+ * © 2011 Bitstream Inc
+*/
+
+
+ @font-face {font-family: 'Sanchez';src: url('webfonts/16C3A1_0.eot');src: url('webfonts/16C3A1_0.eot?#iefix') format('embedded-opentype'),url('webfonts/16C3A1_0.woff') format('woff'),url('webfonts/16C3A1_0.ttf') format('truetype'),url('webfonts/16C3A1_0.svg#wf') format('svg');}
+ @font-face {font-family: 'Sanchez-Italic';src: url('webfonts/16C3A1_1.eot');src: url('webfonts/16C3A1_1.eot?#iefix') format('embedded-opentype'),url('webfonts/16C3A1_1.woff') format('woff'),url('webfonts/16C3A1_1.ttf') format('truetype'),url('webfonts/16C3A1_1.svg#wf') format('svg');}
